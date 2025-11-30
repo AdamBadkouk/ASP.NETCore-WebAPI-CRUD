@@ -93,7 +93,7 @@ dotnet run
 ```
 
 The API will start and be available at:
-- **HTTPS**: `https://localhost:7***`
+- **HTTPS**: `https://localhost:7286`
 - **HTTP**: `http://localhost:5***`
 
 ### 5. Access Swagger UI
